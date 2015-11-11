@@ -596,6 +596,7 @@ Libraries to help manage database schemas and migrations.
 * [Drest](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
 * [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
 * [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - A tool to generate PHP classes from SOAP WSDL files.
+* [php-crud-api](https://github.com/mevdschee/php-crud-api) - A tool for build php crud api
 
 ## Caching
 *Libraries for caching data.*
